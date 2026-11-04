@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931594174709",
+    "project_id": "app-login-cadastro",
+    "storage_bucket": "app-login-cadastro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931594174709:android:5851c3c3697a2fb17c45bc",
+        "android_client_info": {
+          "package_name": "com.exemplo.app_login_cadastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO9_swP0Lj_u1wzQ9Hk3b_z1L75DWstxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
